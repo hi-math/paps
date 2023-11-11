@@ -3,4 +3,3 @@ streamlit_extras
 openai==0.28.1
 pandas
 matplotlib
-matplotlib.pyplot
